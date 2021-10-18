@@ -1,0 +1,35 @@
+#footer {
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    text-align: center;
+    border-width: 2px;
+    border-style: dashed;
+    border-color: #ffffff;
+    background:rgb(232, 214, 255);
+    font-weight: bold;
+}
+
+#bodyTag {
+    background: linear-gradient(rgb(232, 214, 255) 0%, lightcoral 100%);
+    font-family: Calibri;
+    color: #ffffff;
+}
+
+#heading {
+    background: lightskyblue;
+    border-style: dashed;
+    border-color: #ffffff;
+}
+
+#sounds {
+    background:rgb(232, 214, 255);
+    border-style: dashed;
+    border-color: #ffffff;
+    font-weight: bold;
+}
+
+#startButton {
+    background: lightskyblue;
+    border-color: #ffffff;
+}
